@@ -1,4 +1,4 @@
-var store = { "store": {
+{ "store": {
     "book": [ 
       { "category": "reference",
         "author": "Nigel Rees",
